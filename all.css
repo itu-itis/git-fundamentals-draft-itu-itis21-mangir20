@@ -1,4 +1,9 @@
 h1{
+  width:%50;
+  padding:1ex;
+  text-decoration:none;
+  border:thick solid red;
+  text-align:center;
   color:red;
   font-size:24pt;
   text-decoration:underline;
